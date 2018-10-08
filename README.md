@@ -1,2 +1,2 @@
 # SpringCloudConfig
-springCloud config
+远程配置文件使用
