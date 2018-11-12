@@ -1,2 +1,2 @@
 sms:
-  test: hello,spring-cloud-config
+  test: hello,spring-cloud-config using bus
